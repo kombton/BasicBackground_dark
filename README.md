@@ -1,0 +1,1 @@
+This is my customization for DevilBro's BasicBackground BetterDiscord theme.
